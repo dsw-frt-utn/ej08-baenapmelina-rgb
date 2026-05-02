@@ -27,6 +27,7 @@ namespace Dsw2026Ej8
 {
     internal class Problema2
     {
+       
         public string CrearResumenVenta(long codigoProducto, string descripcionProducto, int cantidad, decimal precioUnitario)
         {
             decimal total = 0;
